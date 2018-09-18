@@ -1,7 +1,7 @@
 //Initialize the variables below to what you want: either true or false.
 let outlet = true;
 let electricity = true;
-let plug = false;
+let plug = true;
 let powerSwitch = true;
 
 
